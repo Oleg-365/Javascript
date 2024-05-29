@@ -58,11 +58,11 @@
 
 // 7. Создайте тегp`, запишите внутри него текст "Привет" и добавьте созданный тег в начало элемента, который имеет класс "card".
 
-const cardEl = document.querySelector(".card");
-const parEl = document.createElement("p");
-parEl.textContent = "Привет";
-cardEl.prepend(parEl);
+// const cardEl = document.querySelector(".card");
+// const parEl = document.createElement("p");
+// parEl.textContent = "Привет";
+// cardEl.prepend(parEl);
 
 // 8. Удалите тег h6 на странице.
 
-document.querySelector("h6").remove();
+// document.querySelector("h6").remove();
